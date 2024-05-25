@@ -7,6 +7,8 @@ output: html_document
 
 An introduction of the problem domain and a description of the variable(s) you are choosing to analyze (and why!)
 
+In the United States of America we are currently facing a major problem of mass incarceration which is built off of generations and generations of systematic inequality in our criminal justice system. The United States has the highest incarceration rate in the world yet we still have high crimes or rates so there is a disconnection. People of color but in particular black people have the highest rates of incarceration. Through my analysis I hope to find some information as to what is causing these disparities. The variables I am choosing to analyze are is prison population, jail population, pretrial population, jurisdiction identifier, and race and gender. I chose prison population to further explore how many pople are in prisons in different states and counties and to look for certain trends. Jail population will allow me to see how individuals are in jail and give more insight as to what happens before trial. Pretrial population shows how many people are held in jail and for how long and this can be very insightful to see if racial sterotypes are at play. Jurisdiction Identifier can help with a new insight on the analysis because it gives us information on the jurisdictional level. Race and gender will allow us to see where the disapraties are more at play and in which locations. 
+
 ### Summary Information
 
 Write a summary paragraph of findings that includes the 5 values calculated from your summary information R script

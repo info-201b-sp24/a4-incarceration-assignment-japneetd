@@ -5,8 +5,6 @@ output: html_document
 
 ### Introduction
 
-An introduction of the problem domain and a description of the variable(s) you are choosing to analyze (and why!)
-
 In the United States of America we are currently facing a major problem of mass incarceration which is built off of generations and generations of systematic inequality in our criminal justice system. The United States has the highest incarceration rate in the world yet we still have high crimes or rates so there is a disconnection. People of color but in particular black people have the highest rates of incarceration. Through my analysis I hope to find some information as to what is causing these disparities. The variables I am choosing to analyze are is prison population, jail population, pretrial population, jurisdiction identifier, and race and gender. I chose prison population to further explore how many pople are in prisons in different states and counties and to look for certain trends. Jail population will allow me to see how individuals are in jail and give more insight as to what happens before trial. Pretrial population shows how many people are held in jail and for how long and this can be very insightful to see if racial sterotypes are at play. Jurisdiction Identifier can help with a new insight on the analysis because it gives us information on the jurisdictional level. Race and gender will allow us to see where the disapraties are more at play and in which locations. 
 
 ### Summary Information
@@ -23,14 +21,7 @@ Feel free to calculate and report values that you find relevant. Again, remember
 
 ### The Dataset
 
-Who collected the data?  
-How was the data collected or generated?  
-Why was the data collected?  
-How many observations (rows) are in your data?  
-How many features (columns) are in the data?  
-What, if any, ethical questions or questions of power do you need to consider when working with this data?  
-What are possible limitations or problems with this data?   (at least 200 words)
-
+The data was collected by the Vera Institute of Justice. They collected the data by two Bureau of Justice Statistics. One of them being the Census of Jails and the Annual Survey of Jails. The Census of Jails is gathering information from every jail in the United States of America every five to eight years whereas the Annual Survey of Jails is only able to cover one third of the jails. The data was collected because it is a very important topic that needs to have more light shed on to show the injustices that are happening. Mass incarceration is an epidemic in the United States of America and more information on it needs to be provided to help facilitate change for our generations and more to come. The amount of observations in the dataset across all five smaller datasets that we are working with is 454,594. The amount of features that are in my data are 133 but this is across all five smaller datasets that we received so it is to be noted that a lot of them are overlapping. An ethical question or questions of power we need to consider while working with this data is to not fall under preconceived notions we might have and to retain privacy of these individuals. A possible limitation or problem with this data might be that the data collection might be inaccurate due to different jurisdictions and that certain systematic biases are in play since they're already built into the system.  
 
 ### Trends Over Time Chart
 

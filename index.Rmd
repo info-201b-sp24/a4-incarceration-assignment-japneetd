@@ -19,7 +19,6 @@ The data was collected by the Vera Institute of Justice. They collected the data
 
 I included this chart because I wanted to see the change in prison populations in the five states with the highest prison population over the last forty years. Gives us an insight on how imprisonment rates might’ve changed. In all five states we noticed an uptik in incarceration rates starting in the 1990’s and continued into the 2000’s. 
 
-Here's an example of how to run an R script inside an RMarkdown file:
 
 ``````{r, echo = FALSE, code = readLines("Chart1A4.R")}
 ```

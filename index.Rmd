@@ -17,7 +17,7 @@ The data was collected by the Vera Institute of Justice. They collected the data
 
 ### Trends Over Time Chart
 
-I included this chart because I wanted to see the change in prison populations in the five states with the highest prison population over the last forty years. Gives us an insight on how imprisonment rates might’ve changed. 
+I included this chart because I wanted to see the change in prison populations in the five states with the highest prison population over the last forty years. Gives us an insight on how imprisonment rates might’ve changed. In all five states we noticed an uptik in incarceration rates starting in the 1990’s and continued into the 2000’s. 
 
 Here's an example of how to run an R script inside an RMarkdown file:
 
@@ -26,13 +26,10 @@ Here's an example of how to run an R script inside an RMarkdown file:
 
 ### Variable Comparison Chart
 
-Include a chart. Make sure to describe why you included the chart, and what patterns emerged
+I included this chart because I wanted to see how the total prison population compared to the total jail population and wanted to see if and how they influence each other. From the information that I gathered, when the jail population is lower so is the prison population but when the jail population is higher so is the prison population. In the 1980’s there was a rise in the population for both jail and prison. 
 
-The second chart that you will create and include will show how two different (continuous) variables are related to one another. Again, think carefully about what such a comparison means and what you want to communicate to your user (you may have to find relevant trends in the dataset first!). Here are some requirements to help guide your design:
-
-- You must have clear x and y axis labels
-- The chart needs a clear title 
-- If you choose to add a color encoding (not required), you need a legend for your different color and a clear legend title
+``````{r, echo = FALSE, code = readLines("Chart2A4.R")}
+```
 
 ### Map
 

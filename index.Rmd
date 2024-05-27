@@ -17,17 +17,7 @@ The data was collected by the Vera Institute of Justice. They collected the data
 
 ### Trends Over Time Chart
 
-Include a chart. Make sure to describe why you included the chart, and what patterns emerged
-
-The first chart that you will create and include will show the trend over time of your variable/topic. Think carefully about what you want to communicate to your user (you may have to find relevant trends in the dataset first!). Here are some requirements to help guide your design:
-
-- Show more than one, but fewer than ~10 trends
-  - This may mean showing the same measure for different locations or different racial groups. Think carefully about a meaningful comparison of locations (e.g., the top 10 counties in a state, top 10 states, etc.)
-- You must have clear x and y axis labels
-- The chart needs a clear title 
-- You need a legend for your different line colors and a clear legend title
-
-When we say "clear" or "human readable" titles and labels, that means that you should not just display the variable name.
+I included this chart because I wanted to see the change in prison populations in the five states with the highest prison population over the last forty years. Gives us an insight on how imprisonment rates might’ve changed. 
 
 Here's an example of how to run an R script inside an RMarkdown file:
 

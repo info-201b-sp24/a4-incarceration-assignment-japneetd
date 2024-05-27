@@ -9,15 +9,7 @@ In the United States of America we are currently facing a major problem of mass 
 
 ### Summary Information
 
-Write a summary paragraph of findings that includes the 5 values calculated from your summary information R script
-
-These will likely be calculated using your DPLYR skills, answering questions such as: 
-
-- What is the average value of my variable across all the counties (in the current year)?
-- Where is my variable the highest / lowest?
-- How much has my variable change over the last N years?
-
-Feel free to calculate and report values that you find relevant. Again, remember that the purpose is to think about how these measure of incarceration vary by race.
+For the purpose of my assignment I analyzed several different trends across jails and prisons in the United States of America. The first statistic that I calculated was the average prison population across all of the prisons in America and I found that the number was 617 people. This gives a good idea as to how many people are incarcerated and you might think this number will be smaller or larger in different parts of the country due to population size but it is still very high considering it takes into account every single prison in the country. The second statistic that I calculated was which state and county had the highest prison population. Los Angeles County in California has the highest population with 58,068 people incarcerated where 54,365 of them are male and 3,703 are female. The third statistic that I calculated was which state and county had the lowest prison population. Alpine County in California had the lowest numbers as they had 0 people in jail which makes sense because the total population of this rural county is 1,120 people. It is quite interesting to see how the same state can have such different numbers. The fourth statistic that I calculated was to see the change in prison population in Washington state over the last ten years. In King County there was surprisingly a 13.6% decrease in incarceration rates but Snohomish County had a 12.4% increase. The largest difference was in San Juan County with a decrease of 55.6% in incarceration rates. The last statistic that I calculated was the distribution of prison population by race across Washington State. AAPI population was 1.649264%, Black population was 27.38535%, LatinX population was 9.057946%, Native population was 3.699751%, White population was 55.56665 and other races was 2.64104%. 
 
 ### The Dataset
 

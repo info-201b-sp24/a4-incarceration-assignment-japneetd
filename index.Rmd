@@ -32,11 +32,8 @@ I included this chart because I wanted to see how the total prison population co
 
 ### Map
 
-Include a chart. Make sure to describe why you included the chart, and what patterns emerged
+I included this map because I wanted to illustrate how many females were incarcerated across prisons in the United States of America. Based off this map we can see that it is extremely low as no barely any parts of the maps are colored a shade of blue. This shows us that males are at a significantly higher risk of being incarcerated compared to females. 
 
-The last chart that you will create and include will show how a variable is distributed geographically. Again, think carefully about what such a comparison means and what you want to communicate to your user (you may have to find relevant trends in the dataset first!). Here are some requirements to help guide your design:
-
-- Your map needs a title
-- Your color scale needs a legend with a clear label
-- Use a map based coordinate system to set the aspect ratio of your map
+``````{r, echo = FALSE, code = readLines("Chart3A4.R")}
+```
 
